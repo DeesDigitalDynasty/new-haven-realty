@@ -1,0 +1,6 @@
+{
+  "name": "Newhaven Architectural Real Estate",
+  "description": "A minimalist luxury real estate showcase featuring architectural residences from modern studios to cantilevered glass villas in Quebec, Canada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
